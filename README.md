@@ -92,7 +92,3 @@ This project is pre-configured for modern hosting platforms like **Vercel**, **N
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-<p align="center">
-  Built with ❤️ by <b>Vibe Design Team</b>
-</p>
